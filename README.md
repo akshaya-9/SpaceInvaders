@@ -9,4 +9,4 @@ In the game Space invaders, there is one space ship at the bottom of game window
 
 ## Output
 ![output](outputImage1.png)
-![output](outputImage2.png)
+![output](outputimage2.png)
